@@ -11,4 +11,4 @@ Pod::Spec.new do |spec|
   
     spec.source_files       = 'TBXML-Code/*.{h,m}', 'TBXML-Headers/*.{h,m}'
     spec.ios.framework  = 'UIKit'
-  end
+end
